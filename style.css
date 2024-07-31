@@ -1,0 +1,19 @@
+.menu{
+    float: right;
+    text-decoration-color: black;
+    margin: 10px;
+}
+.sec{
+    background-color: black;
+}
+.first{
+    width:200px;
+    height: 50px;
+    padding-left: 100px;
+}
+p, h1{
+    text-align: center;
+}
+.content{
+    margin: 0 150px;
+}
