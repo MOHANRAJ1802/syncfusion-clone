@@ -32,3 +32,39 @@ button{
     background-color: blue;
     border: none;
 }
+th{
+    width: 300px;
+}
+tr{
+    height: 50px;
+}
+.grid{
+    margin-top: 30px;
+    display: grid;
+    grid-template-rows:100px;
+    width: 250px;
+}
+.grid2{
+    margin-left: 50px;
+    margin-top: 30px;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 30px;
+}
+span{
+    text-align: left;
+    font-size: medium;
+}
+h4{
+    text-align: left;
+}
+.grid3{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    column-gap: 5px;
+}
+.color{
+    background-color: rgb(5, 5, 72);
+    margin: 0;
+    height: 400px;
+}
